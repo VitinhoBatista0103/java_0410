@@ -1,0 +1,24 @@
+#BlueJ class context
+#Sun Oct 04 21:27:38 BRT 2026
+comment0.target=SistemaEscolaEAD
+comment1.target=SistemaEscolaEAD()
+comment10.params=codigo
+comment10.target=Curso buscarCurso(int)
+comment11.target=void exibirResumo()
+comment12.params=mensagem
+comment12.target=int lerInteiro(java.lang.String)
+comment13.params=mensagem
+comment13.target=double lerNota(java.lang.String)
+comment14.params=mensagem
+comment14.target=java.lang.String lerTexto(java.lang.String)
+comment15.params=args
+comment15.target=void main(java.lang.String[])
+comment2.target=void cadastrarCursosIniciais()
+comment3.target=void iniciar()
+comment4.target=void exibirMenu()
+comment5.target=void adicionarAluno()
+comment6.target=void lancarNotas()
+comment7.target=void verificarNotas()
+comment8.target=void verificarFinanceiro()
+comment9.target=void exibirCursos()
+numComments=16
